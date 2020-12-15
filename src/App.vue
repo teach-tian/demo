@@ -4,7 +4,10 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
-    <router-view/>
+    <router-view />
+    <h1>哈喽啊。，我是老邓</h1>
+    <h1>哈喽啊。，我是老邓</h1>
+    <h1>哈喽啊。，我是老邓</h1>
   </div>
 </template>
 
